@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "What is Artificial Intelligence?",
+      "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+    },
+    {
+      "question": "What is Machine Learning?",
+      "answer": "Machine Learning is a subset of AI that enables systems to learn from data."
+    },
+    {
+      "question": "What is AI?",
+      "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+    },
+    {
+      "question": "What is ML?",
+      "answer": "Machine Learning is a subset of AI that enables systems to learn from data."
+    },
+    {
+      "question": "What is Deep Learning?",
+      "answer": "Deep Learning uses neural networks with multiple layers to solve complex problems."
+    },
+    {
+      "question": "What is NLP?",
+      "answer": "Natural Language Processing allows computers to understand and process human language."
+    },
+    {
+      "question": "What is Computer Vision?",
+      "answer": "Computer Vision enables computers to understand images and videos."
+    }
+  ]
+}
